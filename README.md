@@ -43,3 +43,5 @@ There are many things to add, so please feel free to discuss and improve the cod
 <hr/>
 
 Inspired by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats) and [natemoo-re](https://github.com/natemoo-re/natemoo-re)
+![Steam Stats](https://steam-stat.vercel.app/api?profileName=76561198401908195)
+![Steam Stats](https://steam-stat.vercel.app/api?profileName=mudexv)
