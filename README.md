@@ -10,14 +10,14 @@ You can put in your GitHub readme too 😃
 
 For `.md` files - 
 ```
-![Travis](https://steam-stat.vercel.app/api?profileName=mudexv)
+![Travis](https://steam-stat.vercel.app/api?profileName=76561198401908195)
 ```
 For using as `img` property in html or md files -
 ```
-<img src="https://steam-stat.vercel.app/api?profileName=mudexv"/>
+<img src="https://steam-stat.vercel.app/api?profileName=76561198401908195"/>
 ```
 
-[![Travis](https://steam-stat.vercel.app/api?profileName=mudexv)](https://steam-stat.vercel.app/api?profileName=mudexv)
+[![Travis](https://steam-stat.vercel.app/api?profileName=76561198401908195)](https://steam-stat.vercel.app/api?profileName=76561198401908195)
 
 
 You need to provide the profile name in query parameter `?profileName=ananto`.
